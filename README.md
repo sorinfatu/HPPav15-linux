@@ -1,6 +1,3 @@
-# HPPav15-linux
-Personal Setup Repo
-
 ##
 This page is mostly for personal use but is being published in case others can benefir from the information here.
 The main purpose of this is to facilitate instalation and configuration of Linux distros on  a HP Pavillion 15-ec00xxxx laptop.
